@@ -31,6 +31,10 @@ Alzeimers
 Risk of Stroke (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2844782/)
 Increased Lifespan (http://geronj.oxfordjournals.org/content/38/1/36.short, http://www.sciencedirect.com/science/article/pii/S0047637400001093, http://www.karger.com/Article/Abstract/212538)
 
+#Concerns
+Reliance on Caffeine
+Can cause overeating or binge eating when you do it.
+It isn't for everyone, if you are counting down the minutes
 #Further Reading
 #About
 
