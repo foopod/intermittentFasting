@@ -8,10 +8,23 @@
 #Benefits
 
 ##Truth
-Lowers Insulin levels which helps fat burning. Fasting has also been recommended as a way to treat diabetes (https://www.diabetesselfmanagement.com/blog/intermittent-fasting-not-so-fast/).
+Lowers Insulin levels which helps fat burning (http://www.ncbi.nlm.nih.gov/pubmed/15640462, http://www.sciencedirect.com/science/article/pii/S193152441400200X). Fasting has also been recommended as a way to treat diabetes (https://www.diabetesselfmanagement.com/blog/intermittent-fasting-not-so-fast/).
 
+Cell Repair (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3106288/, http://www.ncbi.nlm.nih.gov/pubmed/21106691), increase Longetivity and protection from disease (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2622429/)
+
+Increase Metabolism (https://www.ncbi.nlm.nih.gov/pubmed/2405717, https://www.ncbi.nlm.nih.gov/pubmed/10837292)
+
+Weightloss (http://www.translationalres.com/article/S1931-5244(14)00200-X/abstract, http://www.ncbi.nlm.nih.gov/pubmed/21410865)
+
+It also increases levels of a brain hormone called brain-derived neurotrophic factor (BDNF) (http://www.ncbi.nlm.nih.gov/pubmed/11220789, http://www.ncbi.nlm.nih.gov/pubmed/16011467, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC151440/), a deficiency of which has been implicated in depression and various other brain problems (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3022308/).
 
 ##Indication
+
+Lowers risks of Cancer (https://www.ncbi.nlm.nih.gov/pubmed/24048020)
+Alzeimers
+Risk of Stroke (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2844782/)
+Increased Lifespan (http://geronj.oxfordjournals.org/content/38/1/36.short, http://www.sciencedirect.com/science/article/pii/S0047637400001093, http://www.karger.com/Article/Abstract/212538)
+
 #Further Reading
 #About
 
