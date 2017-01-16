@@ -3,6 +3,8 @@ layout: page
 title: 
 ---
 
+# Intermittent Fasting
+
 <p class="message" style="overflow:hidden">
   Intermittent fasting (IF) is an umbrella term for various diets that cycle between a period of fasting and non-fasting. Intermittent fasting can be used along with calorie restriction for weight loss. 
   <br><span style="float:right"><a href="https://en.wikipedia.org/wiki/Intermittent_fasting">- Wikipedia</a></span>
