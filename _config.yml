@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Intermittent Fasting (IF)
 tagline:          'A Jekyll theme'
 description:      'All the facts about intermittent fasting in one place.'
-url:              http://foopod.github.io/
-baseurl:          /intermittentFasting/
+url:              http://intermittentfasting.pro/
+baseurl:          /
 
 author:
   name:           'Jono Shields'
