@@ -17,4 +17,3 @@ author:
   url:            https://twitter.com/foocodes
 
 gems:             ['jekyll-gist']
-theme: jekyll-theme-cayman
