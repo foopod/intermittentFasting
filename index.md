@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is Intermittent Fasting?
+title: 
 ---
 
 <p class="message" style="overflow:hidden">
