@@ -10,7 +10,6 @@ title:            Intermittent Fasting (IF)
 tagline:          'A Jekyll theme'
 description:      'All the facts about intermittent fasting in one place.'
 url:              http://foopod.github.io/intermittentFasting
-baseurl:          /
 
 author:
   name:           'Jono Shields'
