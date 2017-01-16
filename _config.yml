@@ -14,9 +14,5 @@ baseurl:          /
 
 author:
   name:           'Jono Shields'
-  url:            https://twitter.com/foocodes
-  
-twitter:
-  username: foocodes
 
 gems:             ['jekyll-gist', 'jekyll-seo-tag']
