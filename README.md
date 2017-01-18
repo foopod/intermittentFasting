@@ -1,6 +1,6 @@
 # Intermittent Fasting
 
-Hey there! [This entire website](http://intermittentfasting.pro) is open source. If you see anything that looks amiss or would like something to be added then send me a pull request or an email.
+Hey there! [This entire website](https://intermittentfasting.pro) is open source. If you see anything that looks amiss or would like something to be added then send me a pull request or an email.
 
 I made this site because I was sick of people telling me that what I was doing was **wrong**. 
 
