@@ -24,3 +24,19 @@ Nope. There is this great myth of your body trying to hold onto the fat and wast
 Absolutely, but keep in mind that intermittent fasting is kind of like a workout on its own. It is recommended to time your workouts for right before you break your fast to replenish your body.
 
 Listen to your body, if you are feeling tired you might be over doing it. If you are concerned then bring it back to Calories In Calories Out (CACO), I know it isn't any fun, but tracking calories is the best way to figure out if you are on track.
+
+### Can I still eat/drink x?
+
+Maybe. The idea of fasting is to not eat anything and just drink water. But there are other things you can have...
+
+You can have..
+* Black Coffee
+* Tea
+* Zero Calorie drinks
+* Supplements (Note: Some are much more effective when taken with food)
+
+You can't have..
+* Calories
+
+Some people report that eating or drink a small amount of calories has little or no effect on their fast. Some common examples are a little dark chocolate or a splash of cream in your coffee. While there is some evidence that pure fat calories the cream won't affect your fast because it won't add to the glucose that you are trying to burn off, but it will still trigger an insulin response and slow your fat burning a little.
+
