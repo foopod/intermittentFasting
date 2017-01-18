@@ -10,7 +10,7 @@ If you have any questions feel free to get in touch.
 
 Jono Shields ([@foocodes](http://twitter.com/foocodes), [email](mailto:jonathonshields@gmail.com))
 
-** Contributing **
+**Contributing**
 
 If you would like to contribute to the content of the site, the bulk of it is human readable in the following files...
 
