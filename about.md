@@ -2,6 +2,7 @@
 layout: page
 title: About
 weight: 4
+description: "Intermittent Fasting Pro is a collection of resources to inform people about intermittent fasting"
 ---
 
 <p class="message">
