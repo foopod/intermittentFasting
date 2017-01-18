@@ -21,4 +21,6 @@ Nope. There is this great myth of your body trying to hold onto the fat and wast
 
 ### Can I still hit the gym?
 
-Absolutely. But it is recommended to 
+Absolutely, but keep in mind that intermittent fasting is kind of like a workout on its own. It is recommended to time your workouts for right before you break your fast to replenish your body.
+
+Listen to your body, if you are feeling tired you might be over doing it. If you are concerned then bring it back to Calories In Calories Out (CACO), I know it isn't any fun, but tracking calories is the best way to figure out if you are on track.
