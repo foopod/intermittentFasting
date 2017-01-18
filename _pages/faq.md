@@ -40,3 +40,10 @@ You can't have..
 
 Some people report that eating or drink a small amount of calories has little or no effect on their fast. Some common examples are a little dark chocolate or a splash of cream in your coffee. While there is some evidence that pure fat calories the cream won't affect your fast because it won't add to the glucose that you are trying to burn off, but it will still trigger an insulin response and slow your fat burning a little.
 
+### Is IF safe for everyone?
+
+IF is safe for Seniors and there are several positive effects for brain health, in addition to this some research has been done that suggests that IF can decrease the risk of cancer, Alzheimer's, Huntington's and strokes.
+
+People under the age of 18 don't need to fast, at these ages the growth hormones are still in high levels and their metabolism is a mean machine. If they are overwight it is probably from too much sugar that even their youthful body can't cope with.
+
+Lots of research has been done around women and intermittent fasting, several articles suggest that women only need to fast for 12-14 hours to get all the benefits of IF. For most women IF is safe to try if they are not breastfeeding, pregnant or trying to get pregnant.
