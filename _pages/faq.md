@@ -27,12 +27,12 @@ Listen to your body, if you are feeling tired you might be over doing it. If you
 
 ### Can I still eat/drink x?
 
-Maybe. The idea of fasting is to not eat anything and just drink water. But there are other things you can have...
+Maybe. The idea of fasting is to not eat anything and just drink water. But there are some exceptions...
 
 You can have..
 * Black Coffee
 * Tea
-* Zero Calorie drinks
+* Zero Calorie drinks (Note: Some artificial sweeteners do trigger an insulin response and will disrupt your fast)
 * Supplements (Note: Some are much more effective when taken with food)
 
 You can't have..
