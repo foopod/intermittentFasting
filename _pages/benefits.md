@@ -3,6 +3,7 @@ layout: page
 title: Benefits
 weight: 2
 description: The benefits that intermittent fasting provides ranges from weightloss to lowering insulin and even repairing damaged cells.
+permalink: /benefits/
 ---
 
 ### Well researched benefits

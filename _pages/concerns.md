@@ -3,6 +3,7 @@ layout: page
 title: Concerns
 weight: 3
 description: "Things to keep in mind when attempting intermittent fasting. What are the concerns?"
+permalink: /concerns/
 ---
 
 Intermittent fasting for most people is a significant change in diet. This is a good place to start so you have a headsup and can avoid these.

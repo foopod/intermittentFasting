@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+permalink: /:title/
 
 # Setup
 title:            Intermittent Fasting Pro
@@ -16,5 +16,7 @@ google_site_verification: UP5h0gTVVBwalSmRxt-yS6L5c3CdV1RGzzAsGI5SHdw
 
 author:
   name:           'Jono Shields'
+
+include:           ["_pages"]
 
 gems:             ['jekyll-gist', 'jekyll-seo-tag']
