@@ -18,6 +18,7 @@ If you would like to contribute to the content of the site, the bulk of it is hu
 * _pages/benefits.md
 * _pages/concerns.md
 * _pages/howto.md
+* _pages/faq.md
 * _pages/about.md
 
 Or if you don't feel comfortable with that feel free to flick me an email.
