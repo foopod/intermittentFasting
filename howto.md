@@ -1,6 +1,7 @@
 ---
 layout: page
 title: How does it work?
+weight: 1
 ---
 
 There are a few main ways that people fast, have a read and then an experiment to find out what is going to be best for you.
