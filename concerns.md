@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Concerns
+weight: 3
 ---
 
 Intermittent fasting for most people is a significant change in diet. This is a good place to start so you have a headsup and can avoid these.
