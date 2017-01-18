@@ -73,6 +73,17 @@ h3{
   }
 }
 
+@media (min-width: 1400px) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 24rem;
+    text-align: left;
+  }
+}
+
 /* Sidebar links */
 .sidebar a {
   color: #111;
