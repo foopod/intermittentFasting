@@ -29,7 +29,7 @@ Jono Shields ([@foocodes](http://twitter.com/foocodes), [email](mailto:jonathons
         qrcode: true,
         alignment: 'bl',
         decimals: 8,
-        size: "big",
+        size: "small",
         color: "dark",
         countdownFrom: "0",
         element: "#coinwidget-bitcoin-1CXkgx881fC9EVkA4pyW2dqqZc9ETZSMRE",
