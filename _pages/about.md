@@ -18,4 +18,4 @@ If you have any questions feel free to get in touch.
 
 Jono Shields ([@foocodes](http://twitter.com/foocodes), [email](mailto:jonathonshields@gmail.com))
 
-Donate : [1CXkgx881fC9EVkA4pyW2dqqZc9ETZSMRE](https://blockchain.info/address/1CXkgx881fC9EVkA4pyW2dqqZc9ETZSMRE)
+Donate : [1CXkgx881fC9EVkA4pyW2dqqZc9ETZSMRE](bitcoin:1CXkgx881fC9EVkA4pyW2dqqZc9ETZSMRE?label=Jono%20says%20thanks!)
