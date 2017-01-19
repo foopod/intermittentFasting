@@ -8,7 +8,7 @@ permalink: /concerns/
 
 Intermittent fasting for most people is a significant change in diet. This is a good place to start so you have a headsup and can avoid these.
 
-People sometimes develop **caffeine addictions**. Coffee is a quick and simple "meal replacement" as caffeine is a known hunger suppressant. If you are swapping out your breafast for coffee make sure that you don't get carried away in the mornings, 1-2 cups of coffee or tea is plenty to see you through.
+People sometimes develop **caffeine addictions**. Coffee is a quick and simple "meal replacement" as caffeine is a known hunger suppressant. If you are swapping out your breakfast for coffee make sure that you don't get carried away in the mornings, 1-2 cups of coffee or tea is plenty to see you through.
 
 Another mistake people make when picking up IF is **overeating when they break fast**. When you first start fasting you will find yourself incredibly hungry, its only natural because your body is acclimatizing. Don't take this to mean you need to fit in three meals to make up for the two that you skipped. Be sensible about how much you need, if you aren't sure how much you should be eating then do some rough maths so that calories in is less than calories out.
 
