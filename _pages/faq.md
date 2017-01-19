@@ -10,7 +10,7 @@ permalink: /faq/
 
 That's not a question. Eating 3 meals a day is a cultural thing that humans have only recently developed. Our hunter gatherer ancestors would go for days without eating and they had to be in peak physical condition just to survive. Fasting for a window of more than 12 or so hours speeds up metabolism and hardens our insulin receptors. 
 
-The reason most people feel they need to eat every few hours because of the constant steam of glucose your body is getting, without it you feel hungry pretty quick. This is why people that try Keto (diet that limits carb intake) they find that they are simply not as hungry as they used to be.
+The reason most people feel they need to eat every few hours because of the constant steam of glucose your body is getting, without it you feel hungry pretty quick. This is why people that try Keto (diet that limits carb intake) find that they are simply not as hungry as they used to be.
 
 In fact [here](http://pmj.bmj.com/content/49/569/203.short) is a case of a man that fasted for over a year, living on nothing but supplements and his body fat. The medical journal states that "Prolonged fasting in this patient had no ill-effects".
 
