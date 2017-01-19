@@ -18,7 +18,7 @@ People **under the age of 18** don't need to fast, at these ages the growth horm
 
 ### Other things to be aware of
 
-Intermittent fasting for most people is a significant change in diet. This is a good place to start so you have a headsup and can avoid these.
+Intermittent fasting for most people is a significant change in diet. It helps to be aware of some of the common things people experience.
 
 People sometimes develop **caffeine addictions**. Coffee is a quick and simple "meal replacement" as caffeine is a known hunger suppressant. If you are swapping out your breakfast for coffee make sure that you don't get carried away in the mornings, 1-2 cups of coffee or tea is plenty to see you through.
 
