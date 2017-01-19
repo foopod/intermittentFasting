@@ -22,7 +22,7 @@ IF is know to **fight Oxidative stress** ([17](http://www.sciencedirect.com/scie
 
 Studies have been done that indicate **lowers risk of cancer** in intermittent fasters ([21](https://www.ncbi.nlm.nih.gov/pubmed/24048020)).
 
-Other studies suggest **decreased risks of Alzeimers and strokes** ([22](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2844782/)).
+Other studies suggest **decreased risks of Alzheimer's and strokes** ([22](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2844782/)).
 
 And it is generally accepted that IF is one method for **increasing lifespan** ([23](http://geronj.oxfordjournals.org/content/38/1/36.short), [24](http://www.sciencedirect.com/science/article/pii/S0047637400001093), [25](http://www.karger.com/Article/Abstract/212538))
 
