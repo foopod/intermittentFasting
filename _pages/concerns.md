@@ -14,6 +14,8 @@ Another mistake people make when picking up IF is **overeating when they break f
 
 If even after a few weeks you are still **counting down the minutes** till when your 16 hour fast ends then maybe  you are not getting enough low GI foods in your feeding window. Try to cut down on the sugars and other carbohydrates, or swap them out for whole grains alternatives.
 
+For women looking to try IF it is important that it is done with care. There is research done that indicates that women don't need to fast as long as men to see the same results, so be careful not to over do it.
+
 If you still don't think intermittent fasting is for you, then take a look at [Keto](http://reddit.com/r/keto). You get similar benefits and you get to eat whenever you want, but you have to cut glucose out of your diet almost entirely.
 
 <p class="message">
