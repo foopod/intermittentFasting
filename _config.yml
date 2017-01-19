@@ -7,7 +7,7 @@ permalink: /:title/
 
 # Setup
 title:            Intermittent Fasting Pro
-tagline:          'A Jekyll theme'
+tagline:          'The IF Wiki'
 description:      'A wiki that collects all the facts about intermittent fasting in one place.'
 url:              http://intermittentfasting.pro/
 baseurl:          /
