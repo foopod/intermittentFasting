@@ -7,7 +7,7 @@ permalink: /about/
 ---
 
 <p class="message">
-  Hey there! This entire website is open source. If you see anything that looks amiss or would like something to be added then send me a <a href="https://github.com/foopod/intermittentFasting">pull request</a>, flick me an <a href="mailto:jonathonshields@gmail.com">email</a> or suggest it <a href="https://productpains.com/product/intermittent-fasting-pro">here</a>.
+  Hey there! This entire website is open source. If you see anything that looks amiss or would like something to be added then send me a <a href="https://github.com/foopod/intermittentFasting">pull request</a> or flick me an <a href="mailto:jonathonshields@gmail.com">email</a>.
 </p>
 
 I made this site because I was sick of people telling me that what I was doing was **wrong**. 
