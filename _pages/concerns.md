@@ -10,7 +10,7 @@ permalink: /concerns/
 
 For **women** looking to try IF it is important that it is done with care. There is research done that indicates that women don't need to fast as long as men to see the same results, so be careful not to over do it. Lots of research has been done around women and intermittent fasting, several articles suggest that women only need to fast for 12-14 hours to get all the benefits of IF. For most women IF is safe to try if they are not breastfeeding, pregnant or trying to get pregnant.
 
-Fast with caution if you have **diseases such as Tuberculosis, Hepatitis or HIV**. Fasting causes an autophagic response (triggering the body's natural way of breaking down cells), this is not a bad thing normally, however the diseases mentioned use Autophagy to replicate.
+Fast with caution if you have **diseases such as Tuberculosis, Hepatitis or HIV**. Fasting causes an autophagic response (triggering the body's natural way of breaking down cells), this is not a bad thing normally, however the diseases mentioned use Autophagy to replicate. Please consult a medical professional before trying intermittent fasting.
 
 IF is safe for **seniors** and there are several positive effects for brain health, in addition to this some research has been done that suggests that IF can decrease the risk of cancer, Alzheimer's, Huntington's and strokes.
 
