@@ -16,7 +16,7 @@ IF is safe for **seniors** and there are several positive effects for brain heal
 
 People **under the age of 18** don't need to fast, at these ages the growth hormones are still in high levels and their metabolism is a mean machine. If they are overweight it is probably from too much sugar that even their youthful body can't cope with.
 
-### Other things to be aware of
+### Other concerns
 
 Intermittent fasting for most people is a significant change in diet. It helps to be aware of some of the common things people experience.
 
