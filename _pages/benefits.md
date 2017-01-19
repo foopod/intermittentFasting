@@ -26,7 +26,7 @@ Other studies suggest **decreased risks of Alzheimer's and strokes** ([22](http:
 
 Tests involving mice showed an **increased lifespan** ([23](http://geronj.oxfordjournals.org/content/38/1/36.short), [24](http://www.sciencedirect.com/science/article/pii/S0047637400001093), [25](http://www.karger.com/Article/Abstract/212538)), this is difficult to prove in humans, but more tests are being done.
 
-It also increases levels of brain-derived neurotrophic factor (a brain hormone) ([26](http://www.ncbi.nlm.nih.gov/pubmed/11220789), [27](http://www.ncbi.nlm.nih.gov/pubmed/16011467),[28](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC151440/)), to which a deficiency is often **correlated to depression and various other brain problems** ([29](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3022308/)).
+Other rodent studies also show an increased levels of brain-derived neurotrophic factor (a brain hormone) ([26](http://www.ncbi.nlm.nih.gov/pubmed/11220789), [27](http://www.ncbi.nlm.nih.gov/pubmed/16011467),[28](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC151440/)), to which a deficiency is often **correlated to depression and various other brain problems** ([29](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3022308/)).
 
 <p class="message">
 Disclaimer of Medical Advice: You understand that the information you find here does not constitute medical advice or recommendation of any kind, and you should not rely on it to replace consultations with your qualified health care professionals to meet your individual needs.
