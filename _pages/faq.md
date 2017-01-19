@@ -44,6 +44,6 @@ Some people report that eating or drink a small amount of calories has little or
 
 IF is safe for Seniors and there are several positive effects for brain health, in addition to this some research has been done that suggests that IF can decrease the risk of cancer, Alzheimer's, Huntington's and strokes.
 
-People under the age of 18 don't need to fast, at these ages the growth hormones are still in high levels and their metabolism is a mean machine. If they are overwight it is probably from too much sugar that even their youthful body can't cope with.
+People under the age of 18 don't need to fast, at these ages the growth hormones are still in high levels and their metabolism is a mean machine. If they are overweight it is probably from too much sugar that even their youthful body can't cope with.
 
 Lots of research has been done around women and intermittent fasting, several articles suggest that women only need to fast for 12-14 hours to get all the benefits of IF. For most women IF is safe to try if they are not breastfeeding, pregnant or trying to get pregnant.
