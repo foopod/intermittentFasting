@@ -12,7 +12,7 @@ title:
 
 Generally described as a weight-loss diet Intermittent Fasting (IF) has numerous proven benefits such as increased metabolism, aiding cell repair and lowering insulin levels.
 
-There are also a number of other benefits that studies suggest such as lowering the risk of cancer, alzeimers and increasing lifespan in general, however thorough research has not yet been done.
+There are also a number of other benefits that studies suggest such as lowering the risk of cancer, Alzheimer's and increasing lifespan in general, however thorough research has not yet been done.
 
 **Check for detailed [benefits](/benefits) with links to studies/research in the sidebar.**
 
