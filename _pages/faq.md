@@ -42,6 +42,8 @@ Some people report that eating or drink a small amount of calories has little or
 
 ### Is IF safe for everyone?
 
+No. Fast with caution if you have diseases such as Tuberculosis, Hepatitis and HIV. Fasting causes an autophagic response (triggering the body's natural way of breaking down cells), this is not a bad thing normally, however the diseases mentioned use Autophagy to replicate.
+
 IF is safe for Seniors and there are several positive effects for brain health, in addition to this some research has been done that suggests that IF can decrease the risk of cancer, Alzheimer's, Huntington's and strokes.
 
 People under the age of 18 don't need to fast, at these ages the growth hormones are still in high levels and their metabolism is a mean machine. If they are overweight it is probably from too much sugar that even their youthful body can't cope with.
